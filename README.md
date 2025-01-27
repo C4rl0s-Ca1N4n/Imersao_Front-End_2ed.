@@ -10,4 +10,4 @@ Projeto da recriação da página inicial do Spotify por meio do HTML e do CSS, 
 - Introduzir as propriedades de estilo do CSS no projeto, com truques no Devtools.
 
 ### Desafios desta aula
-Construir a aba [Sua biblioteca](./Desafio).
+Construir a aba [Sua biblioteca](https://github.com/C4rl0s-Ca1N4n/front-end-alura/tree/main/Aula%201/Desafio).
