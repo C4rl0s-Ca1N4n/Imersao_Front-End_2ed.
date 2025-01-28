@@ -1,7 +1,7 @@
 # Imersão Front-End 2ª Edição
 Projeto da recriação da página inicial do Spotify por meio do HTML e do CSS, aplicando atalhos, recursos e as diferenças entre os códigos.
 
-## Dia 1
+## Dia 1 - Revisão: HTML, CSS e JS na Prática
 ### Nesta aula:
 - Entrar no VSCode;
 - Revisar as diferenças entre HTML, CSS e JavaScript;
@@ -14,7 +14,7 @@ Construir a aba [Sua biblioteca](https://github.com/C4rl0s-Ca1N4n/front-end-alur
 
 <img src="Imagens/Desafio Aula 1.png" width="300" />
 
-## Dia 2
+## Dia 2 - Estilo Avançado e Posicionamento: Transformando Layout
 ### Nesta aula:
 - Criar todo menu lateral da página;
 - Aprender os fundamentos do CSS Flexbox;
