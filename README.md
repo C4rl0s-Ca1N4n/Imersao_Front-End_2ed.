@@ -35,6 +35,6 @@ Criar a tag [footer](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tre
 - Criar o menu superior.
 
 ### Desafios desta aula
-Fazer os cards de “Boa tarde” e “Navegar por todas as seções”
+Fazer os [cards](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tree/main/Aula%203/Desafio) de “Boa tarde” e “Navegar por todas as seções”
 
 <img src="Imagens/Desafio Aula 3.png" width="800" />
