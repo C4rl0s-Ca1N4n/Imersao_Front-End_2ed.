@@ -50,7 +50,7 @@ body{
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    padding: 20px 10px;
+    padding: 8px 10px;
     color: var(--text-base-light);
     font-weight: 600;
     font-size: 14px;
