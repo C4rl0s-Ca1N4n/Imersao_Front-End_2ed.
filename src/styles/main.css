@@ -284,7 +284,7 @@
   .card-text {
     display: flex;
     flex-direction: column;
-    color: #fff;
+    color: #ffffff;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -306,7 +306,7 @@
   }
   
   .artist-categorie {
-    color: #6a6a6a;
+    color: #ffffff;
     font-weight: 400;
     font-size: 0.875rem;
   }
