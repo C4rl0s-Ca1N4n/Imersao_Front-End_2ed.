@@ -1,0 +1,124 @@
+{
+  "artists": [
+      {
+        "id": 1,
+        "name": "Anitta",
+        "genre": "Funk",
+        "urlImg": "https://i.scdn.co/image/ab676161000051741681cb494f1011960763744e"
+      },
+      {
+        "id": 2,
+        "name": "Alok",
+        "genre": "Eletrônica",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174f7d1bdca65e1cefd4e60c379"
+      },
+      {
+        "id": 3,
+        "name": "Jorge & Mateus",
+        "genre": "Sertanejo",
+        "urlImg": "https://i.scdn.co/image/ab6761610000517477937baabc49dea13c17c706"
+      },
+      {
+        "id": 4,
+        "name": "Gusttavo Lima",
+        "genre": "Sertanejo",
+        "urlImg": "https://i.scdn.co/image/ab676161000051741acedb918348d36e907d6714"
+      },
+      {
+        "id": 5,
+        "name": "Ivete Sangalo",
+        "genre": "Axé",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174097ec2aea985413e56ff46a7"
+      },
+      {
+        "id": 6,
+        "name": "Ludmilla",
+        "genre": "Funk",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c171639017f673a5ecfb92f3"
+      },
+      {
+        "id": 7,
+        "name": "Zé Neto & Cristiano",
+        "genre": "Sertanejo",
+        "urlImg": "https://i.scdn.co/image/ab676161000051747098ffe23a919f7742979c6e"
+      },
+      {
+        "id": 8,
+        "name": "Marília Mendonça",
+        "genre": "Sertanejo",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174ffaebdbc972967729f688e25"
+      },
+      {
+        "id": 9,
+        "name": "Caetano Veloso",
+        "genre": "MPB",
+        "urlImg": "https://i.scdn.co/image/ab6761610000517470d8a391193cb7394fd2ed27"
+      },
+      {
+        "id": 10,
+        "name": "Gilberto Gil",
+        "genre": "MPB",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174df423bfb01afb1cf3d60d61a"
+      },
+      {
+        "id": 11,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e026c44679425e2695001b35d72"
+      },
+      {
+        "id": 12,
+        "name": "Taylor Swift",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676"
+      },
+      {
+        "id": 13,
+        "name": "Bad Bunny",
+        "genre": "Reggaeton",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174744a4243fb6cc938011a98f4"
+      },
+      {
+        "id": 14,
+        "name": "Billie Eilish",
+        "genre": "Alternative",
+        "urlImg": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da"
+      },
+      {
+        "id": 15,
+        "name": "Ed Sheeran",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174784daff754ecfe0464ddbeb9"
+      },
+      {
+        "id":14,
+        "name": "Nirvana",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451"
+      },
+      {
+        "id": 17,
+        "name": "Guns N' Roses",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000517450defaf9fc059a1efc541f4c"
+      },
+      {
+        "id": 18,
+        "name": "Iron Maiden",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174f9978ad4808f6f2723124d19"
+      },
+      {
+        "id": 19,
+        "name": "Metallica",
+        "genre": "Metal",
+        "urlImg": "https://i.scdn.co/image/ab6761610000517469ca98dd3083f1082d740e44"
+      },
+      {
+        "id": 20,
+        "name": "Adele",
+        "genre": "Soul",
+        "urlImg": "https://i.scdn.co/image/ab6761610000517468f6e5892075d7f22615bd17"
+      }
+    ]    
+}
