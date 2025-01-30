@@ -106,7 +106,6 @@ body{
 .section__playlist button:hover{
     transform: scale(1.04);
 }
-
 .section__playlist .section__playlist__content{
     display:flex;
     flex-direction: column;
@@ -210,6 +209,7 @@ body{
     cursor: pointer;
     flex-shrink: 0;
  }
+
  .disclaimer-premium button:hover{
     transform: scale(1.04);
 }
