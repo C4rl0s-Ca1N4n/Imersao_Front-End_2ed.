@@ -38,3 +38,21 @@ Criar a tag [footer](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tre
 Fazer os [cards](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tree/main/Aula%203/Desafio) de “Boa tarde” e “Navegar por todas as seções”
 
 <img src="Imagens/Desafio Aula 3.png" width="800" />
+
+## Dia 4 - CSS Grid, Media Queries e Manipulação do DOM com JavaScript.
+
+### Nesta aula, você vai:
+- Criar os cards da página inicial;
+- Aprender a usar o CSS Grid Layout;
+- Utilizar media queries para responsividade;
+- Instalar do Node.js;
+- Introduzir o JavaScript no projeto;
+- Utilizar o conceito DOM;
+- Conhecer o método Promises do JavaScript..
+
+### Desafios desta aula
+Teste fazer mais cards se baseie na página do Spotify e aprenda muito mais; E criar um arquivo [API JSON](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tree/main/Aula%204) diferente e explora-lo
+
+<img src="Imagens/Desafio 4.png" width="800" />
+
+
