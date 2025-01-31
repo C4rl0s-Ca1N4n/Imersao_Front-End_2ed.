@@ -61,7 +61,8 @@ Teste fazer mais cards se baseie na página do Spotify e aprenda muito mais; E c
 - Usar framework React;
 - Criar o componente <Header>.
 ### Desafios desta aula
-Completar o site do Spotify feito nas aulas anteriores no React.
+
+Completar o site do Spotify feito nas aulas anteriores no [React](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tree/main/Aula%205).
 
 <img src="Imagens/Desafio Aula 5.png" width="800" />
 
