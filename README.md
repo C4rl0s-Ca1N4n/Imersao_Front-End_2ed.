@@ -41,7 +41,7 @@ Fazer os [cards](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tree/ma
 
 ## Dia 4 - CSS Grid, Media Queries e Manipulação do DOM com JavaScript.
 
-### Nesta aula, você vai:
+### Nesta aula:
 - Criar os cards da página inicial;
 - Aprender a usar o CSS Grid Layout;
 - Utilizar media queries para responsividade;
@@ -54,5 +54,17 @@ Fazer os [cards](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tree/ma
 Teste fazer mais cards se baseie na página do Spotify e aprenda muito mais; E criar um arquivo [API JSON](https://github.com/C4rl0s-Ca1N4n/Imersao_Front-End_2ed./tree/main/Aula%204) diferente e explora-lo
 
 <img src="Imagens/Desafio 4.png" width="800" />
+
+## Dia 5 - Frameworks e Eficiência: Introdução ao React e Angular.
+### Nesta aula:
+- Introdução a um projeto React;
+- Usar framework React;
+- Criar o componente <Header>.
+### Desafios desta aula
+Completar o site do Spotify feito nas aulas anteriores no React.
+
+<img src="Imagens/Desafio Aula 5.png" width="800" />
+
+
 
 
